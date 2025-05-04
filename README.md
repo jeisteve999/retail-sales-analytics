@@ -30,7 +30,6 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)](./data/Cleaned_retail_data.xlsx)
 │
 ├── /Cleaning
-│ ├── data_cleaning.xlsx # Cleaning process step by step
 │ ├── exploratory_analysis.xlsx # Charts and summaries
 │ └── age_vs_products.xlsx # Specific analysis by age and category
 │
