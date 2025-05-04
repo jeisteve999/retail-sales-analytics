@@ -33,6 +33,9 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel)](./Cleaning/exploratory_analysis.xlsx)
 │
 ├── /visualizations
+
+│   ├── dashboards_excel.xlsx   
+
 │ ## 📊 Power BI Dashboard
 
 This project includes an interactive dashboard built in Power BI to visualize and explore retail sales data.
