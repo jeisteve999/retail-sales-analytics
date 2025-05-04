@@ -45,7 +45,9 @@ This project includes an interactive dashboard built in Power BI to visualize an
 > This file is provided for educational purposes only. While it can be freely downloaded,
 > Data source: [Kaggle - Retail Sales Data] https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
-│ └── dashboard_screenshots/ # Dashboard screenshots
-│
+│ └── dashboard_screenshots Excel/ ![Excel Dashboard 1](./visualizations/Excel%20Dashboard%201.png)
+![Excel Dashboard 2](./visualizations/Excel%20Dashboard%202%20png.png)
+ └── dashboard_screenshots Power Bi/
+ 
 ├── README.md # Project description
 └── final_presentation.pdf # Optional summary or report
