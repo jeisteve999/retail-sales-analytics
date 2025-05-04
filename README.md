@@ -30,15 +30,19 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)](./data/Cleaned_retail_data.xlsx)
 │
 ├── /Cleaning
-│ ├── exploratory_analysis.xlsx 📊 [Ver análisis exploratorio (Excel)](./Cleaning/exploratory_analysis.xlsx)
-│ └── age_vs_products.xlsx # Specific analysis by age and category
+│ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel)](./Cleaning/exploratory_analysis.xlsx)
 │
 ├── /visualizations
-│ ├── dashboard.pbix # Power BI dashboard
+│ ## 📊 Power BI Dashboard
+
+This project includes an interactive dashboard built in Power BI to visualize and explore retail sales data.
+
+📥 [Download Power BI dashboard (.pbix)] 
+
+> ⚠️ This file is provided for educational purposes only. While it can be freely downloaded, the content should not be modified or redistributed without permission.  
+> Data source: [Kaggle - Retail Sales Data](https://www.kaggle.com/)
+
 │ └── dashboard_screenshots/ # Dashboard screenshots
-│ ├── sales_by_gender.png
-│ ├── top_products.png
-│ └── age_analysis.png
 │
 ├── README.md # Project description
 └── final_presentation.pdf # Optional summary or report
