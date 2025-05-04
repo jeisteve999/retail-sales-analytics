@@ -37,10 +37,10 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 
 This project includes an interactive dashboard built in Power BI to visualize and explore retail sales data.
 
-📥 [Download Power BI dashboard (.pbix)] 
+📥 [Download Power BI dashboard (.pbix)](./dashboard/My%20first%20proyect.2.pbix)
 
 > ⚠️ This file is provided for educational purposes only. While it can be freely downloaded, the content should not be modified or redistributed without permission.  
-> Data source: [Kaggle - Retail Sales Data](https://www.kaggle.com/)
+> Data source: [Kaggle - Retail Sales Data] https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
 │ └── dashboard_screenshots/ # Dashboard screenshots
 │
