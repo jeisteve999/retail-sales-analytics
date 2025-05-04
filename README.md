@@ -42,7 +42,7 @@ This project includes an interactive dashboard built in Power BI to visualize an
 
 📥 [Download Power BI dashboard (.pbix)](./dashboard/My%20first%20proyect.2.pbix)
 
-> ⚠️ This file is provided for educational purposes only. While it can be freely downloaded, the content should not be modified or redistributed without permission.  
+> This file is provided for educational purposes only. While it can be freely downloaded,
 > Data source: [Kaggle - Retail Sales Data] https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
 │ └── dashboard_screenshots/ # Dashboard screenshots
