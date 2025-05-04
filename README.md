@@ -34,7 +34,7 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │
 ├── /visualizations
 
-│   ├── dashboards_excel.xlsx   
+│   ├── dashboards_excel.xlsx  📥 [Download Excel Dashboard (.xlsx)](./visualizations/Frist%20Project%20Excel%20Dashboards.xlsx) 
 
 │ ## 📊 Power BI Dashboard
 
