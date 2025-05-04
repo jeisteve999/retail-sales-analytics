@@ -47,7 +47,8 @@ This project includes an interactive dashboard built in Power BI to visualize an
 
 │ └── dashboard_screenshots Excel/ ![Excel Dashboard 1](./visualizations/Excel%20Dashboard%201.png)
 ![Excel Dashboard 2](./visualizations/Excel%20Dashboard%202%20png.png)
- └── dashboard_screenshots Power Bi/
+ └── dashboard_screenshots Power Bi/ ![Excel Dashboard 1](./visualizations/Excel%20Dashboard%201.png)  
+![Excel Dashboard 2](./visualizations/Excel%20Dashboard%202%20png.png)
  
 ├── README.md # Project description
 └── final_presentation.pdf # Optional summary or report
