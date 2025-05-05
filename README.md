@@ -31,7 +31,7 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │
 ├── /Eda
 │ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel)](./Cleaning/exploratory_analysis.xlsx)
-   ├── exploratory_analysis.sql 
+   ├── exploratory_analysis.sql 🗃️ [Ver script SQL del proyecto](https://github.com/jeisteve999/retail-sales-analytics/blob/main/SQL.first_proyectsql.sql)
 │
 ├── /visualizations
 
