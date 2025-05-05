@@ -29,8 +29,9 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │ ├── raw_data.csv #📥 [Download cleaned dataset (CSV)](./data/cleaned_data.csv)
 │ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)](./data/Cleaned_retail_data.xlsx)
 │
-├── /Cleaning
+├── /Eda
 │ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel)](./Cleaning/exploratory_analysis.xlsx)
+   ├── exploratory_analysis.sql 
 │
 ├── /visualizations
 
