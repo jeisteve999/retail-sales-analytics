@@ -26,7 +26,7 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 /retail-sales-analytics
 │
 ├── /data
-│ ├── raw_data.csv #📥 [Download cleaned dataset (CSV)](./data/cleaned_data.csv)
+│ ├── raw_data.csv #📥 [Download cleaned dataset (CSV)]
 │ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)] https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Cleaned_retail_data.xlsx
 │
 ├── /Eda
