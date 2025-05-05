@@ -26,11 +26,11 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 /retail-sales-analytics
 │
 ├── /data
-│ ├── raw_data.csv #📥 [Download raw dataset (CSV)] https://github.com/jeisteve999/retail-sales-analytics/blob/main/data/retail_sales_dataset.csv
+│ ├── raw_data.csv #📥 [Download raw dataset (CSV)] (https://github.com/jeisteve999/retail-sales-analytics/blob/main/data/retail_sales_dataset.csv)
 │ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)] https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Cleaned_retail_data.xlsx
 │
 ├── /Eda
-│ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel) https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Eda.xlsx
+│ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel) (https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Eda.xlsx)
    ├── exploratory_analysis.sql 🗃️ [Ver script SQL del proyecto](https://github.com/jeisteve999/retail-sales-analytics/blob/main/SQL.first_proyectsql.sql)
 │
 ├── /visualizations
@@ -41,15 +41,15 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 
 This project includes an interactive dashboard built in Power BI to visualize and explore retail sales data.
 
-📥 [Download Power BI dashboard (.pbix)](./dashboard/My%20first%20proyect.2.pbix)
+📥 [Download Power BI dashboard (.pbix)](https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/My%20first%20proyect.2.pbix))
 
 > This file is provided for educational purposes only. While it can be freely downloaded,
 > Data source: [Kaggle - Retail Sales Data] https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
-│ └── dashboard_screenshots Excel/ ![Excel Dashboard 1](./visualizations/Excel%20Dashboard%201.png)
-![Excel Dashboard 2](./visualizations/Excel%20Dashboard%202%20png.png)
- └── dashboard_screenshots Power Bi/ ![Excel Dashboard 1](./visualizations/Excel%20Dashboard%201.png)  
-![Excel Dashboard 2](./visualizations/Excel%20Dashboard%202%20png.png)
+│ └── dashboard_screenshots Excel/ ![Excel Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Excel%20Dashboard%201.png)
+![Excel Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Excel%20Dashboard%202%20png.png)
+ └── dashboard_screenshots Power Bi/ ![Power BI Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Dashboard%20Power%20BI%201.png)  
+![Power BI Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Dashboard%20Power%20BI%202.png)
  
 ├── README.md # Project Description:
 
