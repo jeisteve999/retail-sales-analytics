@@ -56,4 +56,4 @@ This project includes an interactive dashboard built in Power BI to visualize an
 This project analyzes a retail sales database, focusing on customer demographics and purchasing patterns. The main goal is to understand consumer trends in different product categories such as beauty, clothing, and electronics. By examining the relationship between customer age, gender, and the products they buy, we aim to help improve sales strategies and store performance.
 
 The project also provides insights into which products are most popular among different age groups and genders, and how sales vary throughout the year. These insights can be used to attract more customers, increase sales, and optimize product offerings. By identifying key trends, we can propose strategies to improve customer targeting and increase overall profitability.
-└── final_presentation.pdf # Optional summary or report
+└── final_presentation.pdf # [Download Final Project Presentation PDF](https://github.com/jeisteve999/retail-sales-analytics/raw/main/Final%20project%20presentation.pdf)
