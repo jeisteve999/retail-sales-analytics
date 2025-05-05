@@ -30,7 +30,7 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 │ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)] https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Cleaned_retail_data.xlsx
 │
 ├── /Eda
-│ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel)](./Cleaning/exploratory_analysis.xlsx)
+│ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel) https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Eda.xlsx
    ├── exploratory_analysis.sql 🗃️ [Ver script SQL del proyecto](https://github.com/jeisteve999/retail-sales-analytics/blob/main/SQL.first_proyectsql.sql)
 │
 ├── /visualizations
