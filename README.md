@@ -1,10 +1,11 @@
-# retail-sales-analytics
-Retail sales analysis by gender, age, and product category
-# 🛍️ Retail Sales Dataset Analytics
+# 🛍️ Retail Sales Analytics
+
+Retail sales analysis by gender, age, and product category.
 
 This project analyzes customer purchase behavior in a retail store. The goal is to discover patterns in product preferences based on gender, age, and product category (beauty, clothing, electronics).
 
 ---
+
 ## 🎯 Project Goals
 
 - Identify purchase trends by gender.
@@ -13,47 +14,87 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 
 ---
 
-## 📊 Tools Used
+## 🛠️ Tools Used
 
-- **Excel** – for data cleaning, exploration, and basic statistics.
-- **Power BI** – for visualizations and dashboards.
-- **SQL** – for simple queries to explore product data.
+- **Excel** – Data cleaning, exploration, and basic statistics.
+- **Power BI** – Visualizations and dashboards.
+- **SQL** – Data queries and basic analysis.
 
 ---
 
 ## 📂 Project Structure
 
+
 /retail-sales-analytics
 │
 ├── /data
-│ ├── raw_data.csv #📥 [Download raw dataset (CSV)] (https://github.com/jeisteve999/retail-sales-analytics/blob/main/data/retail_sales_dataset.csv)
-│ └── cleaned_data # 📥 [Download Cleaned Retail Data (Excel)] https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Cleaned_retail_data.xlsx
+│ ├── raw_data.csv
+│ └── cleaned_data.xlsx
 │
 ├── /Eda
-│ ├── exploratory_analysis.xlsx 📊 [See exploratory analysis (Excel) (https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Eda.xlsx)
-   ├── exploratory_analysis.sql 🗃️ [Ver script SQL del proyecto](https://github.com/jeisteve999/retail-sales-analytics/blob/main/SQL.first_proyectsql.sql)
+│ ├── exploratory_analysis.xlsx
+│ └── exploratory_analysis.sql
 │
 ├── /visualizations
+│ ├── dashboards_excel.xlsx
+│ ├── dashboard_screenshots_excel/
+│ └── dashboard_screenshots_powerbi/
+│
+├── dashboard/
+│ └── My_first_project.pbix
+│
+├── final_presentation.pdf
+└── README.md
 
-│   ├── dashboards_excel.xlsx  📥 [Download Excel Dashboard (https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Frist%20Project%20Excel%20Dashboards.xlsx)
 
-│ ## 📊 Power BI Dashboard
+## 📁 Downloads
+
+### 📈 Data
+
+- 📥 [Download Raw Dataset (CSV)](https://github.com/jeisteve999/retail-sales-analytics/raw/main/data/retail_sales_dataset.csv)
+- 📥 [Download Cleaned Retail Data (Excel)](https://github.com/jeisteve999/retail-sales-analytics/raw/main/data/Cleaned_retail_data.xlsx)
+
+### 🔍 Exploratory Analysis
+
+- 📊 [View Exploratory Analysis (Excel)](https://github.com/jeisteve999/retail-sales-analytics/raw/main/Eda/exploratory_analysis.xlsx)
+- 🗃️ [SQL Script of the Project](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Eda/exploratory_analysis.sql)
+
+### 📊 Dashboards
+
+- 📥 [Download Excel Dashboard (.xlsx)](https://github.com/jeisteve999/retail-sales-analytics/raw/main/visualizations/Frist%20Project%20Excel%20Dashboards.xlsx)
+
+#### Power BI Dashboard
 
 This project includes an interactive dashboard built in Power BI to visualize and explore retail sales data.
 
-📥 [Download Power BI dashboard (.pbix)](https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/My%20first%20proyect.2.pbix))
+- 📥 [Download Power BI Dashboard (.pbix)](https://github.com/jeisteve999/retail-sales-analytics/raw/main/dashboard/My%20first%20proyect.2.pbix)
 
-> This file is provided for educational purposes only. While it can be freely downloaded,
-> Data source: [Kaggle - Retail Sales Data] https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+> **Note:** This file is provided for educational purposes only.  
+> **Data source:** [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
-│ └── dashboard_screenshots Excel/ ![Excel Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Excel%20Dashboard%201.png)
-![Excel Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Excel%20Dashboard%202%20png.png)
- └── dashboard_screenshots Power Bi/ ![Power BI Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Dashboard%20Power%20BI%201.png)  
-![Power BI Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Dashboard%20Power%20BI%202.png)
- 
-├── README.md # Project Description:
+---
+
+## 🖼️ Dashboard Screenshots
+
+### Excel Dashboards
+
+![Excel Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/visualizations/Excel%20Dashboard%201.png)  
+![Excel Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/visualizations/Excel%20Dashboard%202%20png.png)
+
+### Power BI Dashboards
+
+![Power BI Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/visualizations/Dashboard%20Power%20BI%201.png)  
+![Power BI Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/visualizations/Dashboard%20Power%20BI%202.png)
+
+---
+
+## 📝 Final Presentation
+
+📄 [Download Final Project Presentation (PDF)](https://github.com/jeisteve999/retail-sales-analytics/raw/main/Final%20project%20presentation.pdf)
+
+---
+
+## 📌 Project Summary
 
 This project analyzes a retail sales database, focusing on customer demographics and purchasing patterns. The main goal is to understand consumer trends in different product categories such as beauty, clothing, and electronics. By examining the relationship between customer age, gender, and the products they buy, we aim to help improve sales strategies and store performance.
-
-The project also provides insights into which products are most popular among different age groups and genders, and how sales vary throughout the year. These insights can be used to attract more customers, increase sales, and optimize product offerings. By identifying key trends, we can propose strategies to improve customer targeting and increase overall profitability.
-└── final_presentation.pdf # [Download Final Project Presentation PDF](https://github.com/jeisteve999/retail-sales-analytics/raw/main/Final%20project%20presentation.pdf)
+The project also provides insights into which products are most popular among different age groups and genders, and how sales vary throughout the year. These insights can be used to attract more customers, increase sales, and optimize product offerings. By identifying key trends, we can propose strategies to improve customer targeting and increase overall profitability. 
