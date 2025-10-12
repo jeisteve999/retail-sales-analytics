@@ -61,13 +61,13 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 
 ### 📊 Dashboards
 
-- 📥 [Download Excel Dashboard (.xlsx)](https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/Frist%20Project%20Excel%20Dashboards.xlsx)
+- 📥 [Download Excel Dashboard (.xlsx)](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Frist%20Project%20Excel%20Dashboards.xlsx)
 
 #### Power BI Dashboard
 
 This project includes an interactive dashboard built in Power BI to visualize and explore retail sales data.
 
-- 📥 [Download Power BI Dashboard (.pbix)](https://github.com/jeisteve999/retail-sales-analytics/raw/refs/heads/main/My%20first%20proyect.2.pbix)
+- 📥 [Download Power BI Dashboard (.pbix)](https://github.com/jeisteve999/retail-sales-analytics/blob/main/My%20first%20proyect.2.pbix)
 
 > **Note:** This file is provided for educational purposes only.  
 > **Data source:** [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
@@ -79,12 +79,12 @@ This project includes an interactive dashboard built in Power BI to visualize an
 ### Excel Dashboards
 
 ![Excel Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Excel%20Dashboard%201.png)  
-![Excel Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Excel%20Dashboard%202%20png.png)
+![Excel Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/EXCEL%202.png)
 
 ### Power BI Dashboards
 
-![Power BI Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Dashboard%20Power%20BI%201.png)  
-![Power BI Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Dashboard%20Power%20BI%202.png)
+![Power BI Dashboard 1](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Power%20bi%201%20png.png)  
+![Power BI Dashboard 2](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Power%20bi.2png.png)
 
 ---
 
