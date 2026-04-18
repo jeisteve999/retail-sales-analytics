@@ -12,6 +12,19 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 - Find the most popular products in each category.
 - Explore how age influences product choices.
 
+
+## Top Business Insights
+
+-Customers aged 51–60 generate the highest revenue and purchase volume (~22%)
+
+-Electronics drive the highest revenue despite lower sales volume → high-value category
+
+-Clothing leads in quantity sold but not in revenue → opportunity for upselling
+
+-Sales show strong seasonality, with peaks in May and drops after December
+
+-Customer spending is highly variable, with a small group driving most revenue
+
 ---
 
 ## 🛠️ Tools Used
@@ -23,7 +36,6 @@ This project analyzes customer purchase behavior in a retail store. The goal is 
 ---
 
 ## 📂 Project Structure
-
 
 /retail-sales-analytics
 │
@@ -92,23 +104,7 @@ This project includes an interactive dashboard built in Power BI to visualize an
 
 📄 [Download Final Project Presentation (PDF)](https://github.com/jeisteve999/retail-sales-analytics/blob/main/Final%20project%20presentation.pdf)
 
-
-
-
 ---
-
-## Top Business Insights
-
--Customers aged 51–60 generate the highest revenue and purchase volume (~22%)
-
--Electronics drive the highest revenue despite lower sales volume → high-value category
-
--Clothing leads in quantity sold but not in revenue → opportunity for upselling
-
--Sales show strong seasonality, with peaks in May and drops after December
-
--Customer spending is highly variable, with a small group driving most revenue
-
 
 
 ## 📌 Project Summary
