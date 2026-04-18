@@ -94,6 +94,16 @@ This project includes an interactive dashboard built in Power BI to visualize an
 
 ---
 
+## Top Business Insights
+
+Customers aged 51–60 generate the highest revenue and purchase volume (~22%)
+Electronics drive the highest revenue despite lower sales volume → high-value category
+Clothing leads in quantity sold but not in revenue → opportunity for upselling
+Sales show strong seasonality, with peaks in May and drops after December
+Customer spending is highly variable, with a small group driving most revenue
+
+
+
 ## 📌 Project Summary
 
 This project analyzes a retail sales database, focusing on customer demographics and purchasing patterns. The main goal is to understand consumer trends in different product categories such as beauty, clothing, and electronics. By examining the relationship between customer age, gender, and the products they buy, we aim to help improve sales strategies and store performance.
